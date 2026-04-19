@@ -6,7 +6,7 @@ function ErrorPage() {
 
     return (
         <>
-            <Layout HeaderStyle="error" FooterStyle="error">
+            <Layout>
                 <Page404 />
             </Layout>
         </>

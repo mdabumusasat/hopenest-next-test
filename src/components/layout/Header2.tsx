@@ -7,7 +7,6 @@ import MobileMenu from "../navigation/MobileMenu";
 interface HeaderProps {
   handleOpen: () => void;
   handleRemove: () => void;
-  handleRemove2: () => void;
   scroll: boolean;
   handleToggle?: () => void;
   searchToggle?: boolean;
